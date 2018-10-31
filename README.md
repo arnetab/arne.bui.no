@@ -1,6 +1,6 @@
 # arne.bui.no
 
-> Personal webpage for Arne Bui
+> Personal website for Arne Bui
 
 ## Build Setup
 
